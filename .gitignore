@@ -1,1 +1,5 @@
-node_modules
+# Ignore node_modules and build artifacts
+node_modules/
+.next/
+.env
+.DS_Store
